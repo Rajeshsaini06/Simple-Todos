@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-color: #ffffff;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 1;
+  border-radius: 10px;
+}
+ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: #ffc2a0;
+  font-weight: 800;
+}
